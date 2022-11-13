@@ -13,3 +13,5 @@ amplitude_encode(vec, amp_enc_reg);
 
 // note: table 9-1 difference btwn amplitude and state encoding for vector data
 // ex 6-2 repeated amplitude amplification (flip and mirror is amplitude amplification) 
+
+// pg 135 : speed up conventional algorithms with AA
