@@ -1,4 +1,5 @@
 // Example 6.2 in Programming Quantum Computers https://oreilly-qc.github.io/?p=6-2
+// pg 111, if continue to apply AA then increase the probability of observing marked value
 
 #include <quantum.hpp>
 #include <clang/Quantum/quintrinsics.h>
