@@ -5,7 +5,7 @@ Trying running this code in Intel Quantum SDK.
 Ideas:
 How to speed up (common nbd product of graphs) search for edges
 
-How to use cycle bases as a bases, how to write the cycle bases in terms of qbits (?)
+How to use cycle bases as a bases, how to write the cycle bases in terms of qbits (?) and how to write min weight cycle basis algorithm
 
 Notes from Programming Quantum Computers:
 pg. 185: Matrix Encodings
