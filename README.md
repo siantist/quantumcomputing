@@ -9,7 +9,7 @@ How to speed up kronecker product matrix multiplication (On the Kronecker Produc
 
 How to use cycle bases as a bases, how to write the cycle bases in terms of qbits (?) and how to write min weight cycle basis algorithm
 
-quantum random walk?
+quantum random walk? quantum mcmc algorithm?
 
 Differential Privacy with quantum circuits (teleportation between Alice and Bob) ?
 
