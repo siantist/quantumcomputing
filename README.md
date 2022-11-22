@@ -9,6 +9,8 @@ How to speed up kronecker product matrix multiplication (On the Kronecker Produc
 
 How to use cycle bases as a bases, how to write the cycle bases in terms of qbits (?) and how to write min weight cycle basis algorithm
 
+quantum random walk?
+
 Differential Privacy with quantum circuits (teleportation between Alice and Bob) ?
 
 Notes from Programming Quantum Computers:
@@ -17,3 +19,7 @@ Obvious way of encoding m x n matrix is to employ m QPU registers, each of lengt
 
 links:
 https://towardsdatascience.com/a-practical-guide-to-quantum-amplitude-amplification-dbcbe467044a
+
+https://link.springer.com/content/pdf/10.1007/s11424-019-9008-0.pdf
+pg. 16 
+(how to use the results of) quantum eigenphase decomposition, quantum SVE, quantum linear solver
