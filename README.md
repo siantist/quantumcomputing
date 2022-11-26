@@ -8,6 +8,7 @@ How to speed up (common nbd product of graphs) search for edges
 How to speed up kronecker product matrix multiplication (On the Kronecker Product, Kathrin Schacke); use tropical semirings for Sylvester/Lyapunov eqns
 
 How to use cycle bases as a bases, how to write the cycle bases in terms of qbits (?) and how to write min weight cycle basis algorithm
+Graph isomorphism algorithm (yes/no)
 
 quantum random walk? quantum mcmc algorithm? tropical semiring as hermitian matrix or unitary matrix?
 quantum estimation of eigenvalues ? (caucy interlacing law in terry tao book)
