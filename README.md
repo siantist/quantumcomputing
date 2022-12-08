@@ -15,6 +15,8 @@ quantum estimation of eigenvalues ? (caucy interlacing law in terry tao book)
 
 Differential Privacy with quantum circuits (teleportation between Alice and Bob) ?
 
+https://ysig.github.io/GraKeL/0.1a8/kernels/hadamard_code.html Hadamard code kernel in quantum computing?
+
 Notes from Programming Quantum Computers:
 pg. 185: Matrix Encodings
 Obvious way of encoding m x n matrix is to employ m QPU registers, each of length log_2 (n), to amplitude-encode each row of the matrix as if it was a vector. 
