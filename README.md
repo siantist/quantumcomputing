@@ -27,3 +27,6 @@ https://towardsdatascience.com/a-practical-guide-to-quantum-amplitude-amplificat
 https://link.springer.com/content/pdf/10.1007/s11424-019-9008-0.pdf
 pg. 16 
 (how to use the results of) quantum eigenphase decomposition, quantum SVE, quantum linear solver
+
+https://github.com/GraphBLAS/LAGraph
+LAGraph is a library plus a test harness for collecting algorithms that use GraphBLAS
