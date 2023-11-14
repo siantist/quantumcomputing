@@ -7,6 +7,8 @@ How to speed up (common nbd product of graphs) search for edges
 
 How to speed up kronecker product matrix multiplication (On the Kronecker Product, Kathrin Schacke); use tropical semirings for Sylvester/Lyapunov eqns
 
+kronecker product block encoding?
+
 How to use cycle bases as a bases, how to write the cycle bases in terms of qbits (?) and how to write min weight cycle basis algorithm
 Graph isomorphism algorithm (yes/no)
 
