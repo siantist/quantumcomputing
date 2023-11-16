@@ -22,6 +22,7 @@ https://ysig.github.io/GraKeL/0.1a8/kernels/hadamard_code.html Hadamard code ker
 Notes from Programming Quantum Computers:
 pg. 185: Matrix Encodings
 Obvious way of encoding m x n matrix is to employ m QPU registers, each of length log_2 (n), to amplitude-encode each row of the matrix as if it was a vector. 
+pg. 189: Lie product formula: allows unitary matrix U=exp(-iHt) to be approx. by performing QPU operations $U_1 = exp(-iH_1 \delta t), \cdots, exp(-iH_n \delta t)$.
 
 links:
 https://towardsdatascience.com/a-practical-guide-to-quantum-amplitude-amplification-dbcbe467044a
