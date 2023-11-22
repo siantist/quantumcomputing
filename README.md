@@ -1,6 +1,6 @@
 # quantumcomputing
 Trying running this code in Intel Quantum SDK.
-
+https://github.com/IntelLabs/Hybrid-Quantum-Classical-Library
 
 Ideas:
 How to speed up (common nbd product of graphs) search for edges
